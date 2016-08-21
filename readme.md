@@ -17,7 +17,7 @@
 * install magento 2.x.x (develop branch recommended as of now)
 * add a  new magento user and add the needed roles (or just use admin account for testing only)
 * add Magento sample data (recommended) or manually add some testing data
-* in Laravel repo setup settings located at: app/config/settings.php
+* in Laravel repo setup settings located at: <code>app/config/settings.php</code>
 * terminal/bash in Laravel dir root: <code>php artisan serve</code>  - to start local server
 
 
