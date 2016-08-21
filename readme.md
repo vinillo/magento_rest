@@ -13,7 +13,7 @@
 
 ##Setup:
 * clone repo
-* composer install
+* <code>composer install</code>
 * install magento 2.x.x (develop branch recommended as of now)
 * add a  new magento user and add the needed roles (or just use admin account for testing only)
 * add Magento sample data (recommended) or manually add some testing data
